@@ -1,3 +1,4 @@
+![Playwright Tests](https://github.com/AlehandroAntonov/qa-portfolio-playwright/actions/workflows/playwright.yml/badge.svg)
 # QA Automation Portfolio — Playwright + TypeScript
 
 Automated test suite for web applications using Playwright and TypeScript.
