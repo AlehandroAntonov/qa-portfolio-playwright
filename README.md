@@ -9,10 +9,9 @@ Automated test suite for web applications using Playwright and TypeScript.
 - GitHub Actions — CI/CD pipeline
 
 ## Project Structure
-
-pages/          — Page Object Model classes
-tests/          — test files
-.github/        — CI/CD workflows
+    pages/          — Page Object Model classes
+    tests/          — test files
+    .github/        — CI/CD workflows
 
 ## Test Coverage
 
